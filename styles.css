@@ -11,10 +11,12 @@ i{
 #background{
 background-color: rgb(65, 65, 67);
 }
-.img-sizing {
-	 width: 100%;
+.image {
+	 width: 60%;
 	 height: 400px;
 	 opacity: 100%;
+	 position: absolute;
+	 justify-content: center;
 }
 .carousel-item{
 	position: relative;
