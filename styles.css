@@ -32,12 +32,10 @@ h3{
 	position: relative;
 }
 .button{ 
+	position: fixed;
 	justify-content: center;
 }
-.event_photos{
-	width: 100px;
-	height:100px;
-}
+
 .follow_link{
 	position: relative;
 	align-items: center;
