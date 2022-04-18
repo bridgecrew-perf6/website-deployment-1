@@ -5,6 +5,9 @@ body{
 	color:antiquewhite;
 	background: scroll;
 }
+i{
+	color:whitesmoke
+}
 #background{
 background-color: rgb(65, 65, 67);
 }
