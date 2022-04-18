@@ -17,6 +17,7 @@ background-color: rgb(65, 65, 67);
 	 opacity: 100%;
 	 position: absolute;
 	 justify-content: center;
+	 z-index: 10;
 }
 .carousel-item{
 	position: relative;
