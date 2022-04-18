@@ -5,25 +5,22 @@ z-index: 0;
 body{
 	color:antiquewhite;
 	background: scroll;
+	position:fixed;
 }
 i{
 	color:whitesmoke
 }
 #background{
-background-color: rgb(65, 65, 67);
+background-color: rgb(24, 24, 24);
 }
 .image {
-	 width: 60%;
+	 width: fit-content;
 	 height: 400px;
 	 opacity: 100%;
-	 position: absolute;
+	 position: relative;
 	 justify-content: center;
-	 z-index: 10;
-}
-.carousel-item{
-	position: relative;
-	justify-content: center;
-
+	 align-self: center;
+	 z-index: 1;
 }
 .company, h2{
 font-family: 'Whisper', cursive;
@@ -41,7 +38,7 @@ h3{
 	justify-content: center;
 }
 .button{ 
-	position: fixed;
+	position: relative;
 	justify-content: center;
 }
 
@@ -51,5 +48,7 @@ h3{
 	justify-content: center;
 }
 about_us_content{
-	position:absolute;
+	position:relative;
+	word-wrap: break-word;
+
 }
