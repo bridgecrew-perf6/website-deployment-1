@@ -39,6 +39,7 @@ h3{
 	height:100px;
 }
 .follow_link{
+	position: relative;
 	align-items: center;
 	justify-content: center;
 }
